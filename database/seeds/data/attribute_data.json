@@ -1,0 +1,107 @@
+[
+  {
+    "code": "app_id",
+    "value": "app.coredirection.com",
+    "data_type": "conversion"
+  },
+  {
+    "code": "start_session",
+    "value": "open()",
+    "data_type": "conversion"
+  },
+  {
+    "code": "start_session",
+    "value": "openScreen()",
+    "data_type": "conversion"
+  },
+  {
+    "code": "start_session",
+    "value": "savePayment()",
+    "data_type": "conversion"
+  },
+  {
+    "code": "start_session",
+    "value": "doCheckout()",
+    "data_type": "conversion"
+  },
+  {
+    "code": "custom_event",
+    "value": "makePublish()",
+    "data_type": "conversion"
+  },
+  {
+    "code": "custom_event",
+    "value": "viewCards()",
+    "data_type": "conversion"
+  },
+  {
+    "code": "app_id",
+    "value": "app.coredirection.com",
+    "data_type": "action"
+  },
+  {
+    "code": "app_launch",
+    "value": "open()",
+    "data_type": "action"
+  },
+  {
+    "code": "app_launch",
+    "value": "makePublish()",
+    "data_type": "action"
+  },
+  {
+    "code": "savings",
+    "value": "openScreen()",
+    "data_type": "action"
+  },
+  {
+    "code": "my information",
+    "value": "savePayment()",
+    "data_type": "action"
+  },
+  {
+    "code": "search_location",
+    "value": "doCheckout()",
+    "data_type": "action"
+  },
+  {
+    "code": "help",
+    "value": "viewCards()",
+    "data_type": "action"
+  },
+  {
+    "code": "app_launch",
+    "value": "open();",
+    "data_type": "action"
+  },
+  {
+    "code": "user_id",
+    "value": "2",
+    "data_type": "user"
+  },
+  {
+    "code": "app_id",
+    "value": "com.devengagement.v2",
+    "data_type": "user"
+  },
+  {
+    "code": "country",
+    "value": "PK",
+    "data_type": "user"
+  },
+  {
+    "code": "firstname",
+    "value": "Ikram",
+    "data_type": "user"
+  },
+  {
+    "code": "lastname",
+    "value": "Hassan",
+    "data_type": "user"
+  },
+  {
+    "code": "email",
+    "value": "ikram@rebeltechnology.io",
+    "data_type": "user"
+  }
+]

@@ -1,0 +1,38 @@
+[{
+  "app_group_id": 1,
+  "company_id": 2,
+  "user_id": 1,
+  "app_id": "com.devengagement.v2",
+  "email": "ikram@test.com",
+  "username": "ikram.test",
+  "firstname": "Ikram",
+  "lastname": "Hassan",
+  "image_url" : "",
+  "country": "PK",
+  "tokens": [
+    {
+      "user_id": 1,
+      "app_name": "DevEngagement",
+      "app_id": "com.devengagement.v2",
+      "app_build": "1.0",
+      "app_version": "1.0",
+      "device_type": "android",
+      "device_token": "d6tzNhdWgEI:APA91bEACBYTtq0I3_1JxgOnlmpZg-qPo0DfXguIIOwtYXbYx6G5RJ52xx7fPp1GMajD_QVbo8CZQ_BKCw-Tr6ijl-TfIbz63PvQw1ssHRCxFVNefl2F16mwwAVOok9_C9Q_1IrYL70G",
+      "instance_id":"d6tzNhdWgEI",
+      "is_logged_in": 1,
+      "lang": "en"
+    },
+    {
+      "user_id": 1,
+      "app_name": "DevEngagement",
+      "app_id": "com.devengagement.v2",
+      "app_build": "1.0",
+      "app_version": "1.0",
+      "device_type": "ios",
+      "device_token": "d07chL7-cbY:APA91bHUgUCedYolSfpatH7cdZvvtqPi_tMuKRy8Hblkvl-OP1fhNK_xu9EwsZlFLg_IrNo8yUEt4kHVuUfCyVUek4qqvP-XIUnGHglvZbkT7UVkV_WyUnuZGx_UXVPC99MPl8L92vns",
+      "instance_id":"d07chL7-cbY",
+      "is_logged_in": 1,
+      "lang": "en"
+    }
+  ]
+}]

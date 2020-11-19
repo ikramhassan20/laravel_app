@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>E72FD68E-A645-4D73-98FF-1040F88A2474</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-671.000000, -306.000000)">
+            <g id="mail" transform="translate(671.000000, 306.000000)">
+                <path d="M90,50 C90,72.0914713 72.0914713,90 50,90 C27.9085287,90 10,72.0914713 10,50 C10,27.9085287 27.9085287,10 50,10 C72.0914713,10 90,27.9085287 90,50 Z" id="Path" fill="#E5E5E5"></path>
+                <path d="M50,100 C22.3860677,100 0,77.6139323 0,50 C0,22.3860677 22.3860677,0 50,0 C77.6139323,0 100,22.3860677 100,50 C99.9690754,77.6009115 77.6009115,99.9690754 50,100 Z M50,3.33333333 C24.2268879,3.33333333 3.33333333,24.2268879 3.33333333,50 C3.33333333,75.7731121 24.2268879,96.6666667 50,96.6666667 C75.7731121,96.6666667 96.6666667,75.7731121 96.6666667,50 C96.6373698,24.239095 75.760905,3.36263021 50,3.33333333 Z" id="Shape" fill="#31394D" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#4A4A4A" points="26.6666667 31.6666667 73.3333333 31.6666667 73.3333333 68.3333333 26.6666667 68.3333333"></polygon>
+                <polygon id="Path" fill="#9B9B9B" points="26.6666667 31.6666667 50 51.6666667 73.3333333 31.6666667"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

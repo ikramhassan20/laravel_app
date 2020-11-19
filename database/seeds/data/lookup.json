@@ -1,0 +1,352 @@
+[
+  {
+    "code": "ACTION_TRIGGERS",
+    "name": "Action Triggers",
+    "description": "App action triggers",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "APP_LAUNCH",
+    "name": "App Launch",
+    "description": "App Launch",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "LOCATION_SCREEN ",
+    "name": "Location Screen ",
+    "description": "Location Screen ",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "MY_INFORMATION",
+    "name": "My Information",
+    "description": "My Information",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "HELP",
+    "name": "Help",
+    "description": "Help",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "SAVINGS",
+    "name": "Savings",
+    "description": "Savings",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "REDEMPTION_HISTORY",
+    "name": "Redemption History",
+    "description": "Redemption History",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "TUTORIAL",
+    "name": "Tutorial",
+    "description": "Tutorial",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "MERCHANT_DETAIL_PAGE",
+    "name": "Merchant Detail Page",
+    "description": "Merchant Detail Page",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "TRAVEL_TAB",
+    "name": "Travel Tab",
+    "description": "Travel Tab",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "MARKED_FAVOURITE",
+    "name": "Marked Favourite ",
+    "description": "Marked Favourite ",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "REDEMPTION_SUCCESS",
+    "name": "Redemption Success ",
+    "description": "Redemption Success ",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "FAVOURITIES",
+    "name": "Favourites",
+    "description": "Favourites",
+    "parent_id": "1",
+    "level": "platform"
+  },
+  {
+    "code": "GENDER",
+    "name": "gender",
+    "description": "Gender",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "MALE",
+    "name": "male",
+    "description": "Gender male",
+    "parent_id": "14",
+    "level": "platform"
+  },
+  {
+    "code": "FEMALE",
+    "name": "female",
+    "description": "female",
+    "parent_id": "14",
+    "level": "platform"
+  },
+  {
+    "code": "COUNTRIES",
+    "name": "country",
+    "description": "countries",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "PK",
+    "name": "pakistan",
+    "description": "Pakistan",
+    "parent_id": "17",
+    "level": "platform"
+  },
+  {
+    "code": "UAE",
+    "name": "United Arab Emirate",
+    "description": "United Arab Emirate",
+    "parent_id": "17",
+    "level": "platform"
+  },
+  {
+    "code": "UK",
+    "name": "UK",
+    "description": "UK",
+    "parent_id": "17",
+    "level": "platform"
+  },
+  {
+    "code": "Universal",
+    "name": "Universal",
+    "description": "inapp universal type",
+    "parent_id": "25",
+    "level": "platform"
+  },
+  {
+    "code": "Dialog",
+    "name": "Dialog",
+    "description": "inapp dialog",
+    "parent_id": "26",
+    "level": "platform"
+  },
+  {
+    "code": "Full_Screen",
+    "name": "Full Screen",
+    "description": "inapp full screen",
+    "parent_id": "26",
+    "level": "platform"
+  },
+  {
+    "code": "Banner",
+    "name": "Banner",
+    "description": "inapp banner",
+    "parent_id": "26",
+    "level": "platform"
+  },
+  {
+    "code": "Platform",
+    "name": "platform",
+    "description": "inapp platform",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "Message_Type",
+    "name": "message type",
+    "description": "inapp message type",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "Android",
+    "name": "Android",
+    "description": "inapp android",
+    "parent_id": "25",
+    "level": "platform"
+  },
+  {
+    "code": "Ios",
+    "name": "iOS",
+    "description": "inapp ios",
+    "parent_id": "25",
+    "level": "platform"
+  },
+  {
+    "code": "campaign_type",
+    "name": "CampaignType",
+    "description": "Campaign Type",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "campaign_type_email",
+    "name": "Email",
+    "description": "Email Campaign Type",
+    "parent_id": "29",
+    "level": "platform"
+  },
+  {
+    "code": "campaign_type_push",
+    "name": "Push",
+    "description": "Push Campaign Type",
+    "parent_id": "29",
+    "level": "platform"
+  },
+  {
+    "code": "campaign_type_inapp",
+    "name": "InApp",
+    "description": "InApp Campaign Type",
+    "parent_id": "29",
+    "level": "platform"
+  },
+  {
+    "code": "Layout",
+    "name": "layout",
+    "description": "inapp layout",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "Portrait",
+    "name": "Portrait",
+    "description": "inapp portrait",
+    "parent_id": "33",
+    "level": "platform"
+  },
+  {
+    "code": "Landscape",
+    "name": "Landscape",
+    "description": "inapp landscape",
+    "parent_id": "33",
+    "level": "platform"
+  },
+  {
+    "code": "Device_Position",
+    "name": "device position",
+    "description": "inapp device position",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "Top",
+    "name": "Top",
+    "description": "inapp Top",
+    "parent_id": "36",
+    "level": "platform"
+  },
+  {
+    "code": "Middle",
+    "name": "Middle",
+    "description": "inapp Middle",
+    "parent_id": "36",
+    "level": "platform"
+  },
+  {
+    "code": "Bottom",
+    "name": "Bottom",
+    "description": "inapp Bottom",
+    "parent_id": "36",
+    "level": "platform"
+  },
+  {
+    "code": "Action",
+    "name": "Action",
+    "description": "inapp Action",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "Url",
+    "name": "Url",
+    "description": "inapp Url",
+    "parent_id": "40",
+    "level": "platform"
+  },
+  {
+    "code": "Deep_Link",
+    "name": "Deep Link",
+    "description": "inapp Deep Link",
+    "parent_id": "40",
+    "level": "platform"
+  },
+  {
+    "code": "NewsFeed",
+    "name": "NewsFeed",
+    "description": "inapp NewsFeed",
+    "parent_id": "40",
+    "level": "platform"
+  },
+  {
+    "code": "Close",
+    "name": "Close",
+    "description": "inapp Close",
+    "parent_id": "40",
+    "level": "platform"
+  },
+  {
+    "code": "CONVERSION_TYPES",
+    "name": "Conversion Types",
+    "description": "Conversion types",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "START_SESSION",
+    "name": "Start Session",
+    "description": "Start session",
+    "parent_id": "45",
+    "level": "platform"
+  },
+  {
+    "code": "MAKE_PURCHASE",
+    "name": "Make purchase",
+    "description": "Make purchase",
+    "parent_id": "45",
+    "level": "platform"
+  },
+  {
+    "code": "PERFORM_CUSTOM_EVENT",
+    "name": "Perform custom event",
+    "description": "Perform custom event",
+    "parent_id": "45",
+    "level": "platform"
+  },
+  {
+    "code": "API_TRIGGERS",
+    "name": "API Triggers",
+    "description": "App api triggers",
+    "parent_id": "0",
+    "level": "platform"
+  },
+  {
+    "code": "Web",
+    "name": "Web",
+    "description": "web",
+    "parent_id": "25",
+    "level": "platform"
+  }
+]

@@ -1,0 +1,18 @@
+[{
+    "name" : "DevEngagement",
+    "logo" : "",
+    "app_id" : "com.devengagement.v2",
+    "description" : "DevEngagement",
+    "firebase_api_key" : "AAAAHtc5HBo:APA91bH3hvkYhGYPzJ9vdFETqXKwBFJShdMExDbMbp4BYpNGAhZEq-r7H0QjYkTVGMPCqA0qkpJVxpkBiCOpFiGNVgRiHdmvTEIqbO-qWx7d36kfvPDzvHs0CDnv-1suENbVVSz7dl1oYwavUtude4g-8A-hyWPtHQ",
+    "platform" : "IOS",
+    "is_active" : 1
+  },
+  {
+    "name" : "DevEngagement",
+    "logo" : "",
+    "app_id" : "com.devengagement.v2",
+    "description" : "DevEngagement",
+    "firebase_api_key" : "AAAAHtc5HBo:APA91bH3hvkYhGYPzJ9vdFETqXKwBFJShdMExDbMbp4BYpNGAhZEq-r7H0QjYkTVGMPCqA0qkpJVxpkBiCOpFiGNVgRiHdmvTEIqbO-qWx7d36kfvPDzvHs0CDnv-1suENbVVSz7dl1oYwavUtude4g-8A-hyWPtHQ",
+    "platform" : "ANDROID",
+    "is_active" : 1
+  }]

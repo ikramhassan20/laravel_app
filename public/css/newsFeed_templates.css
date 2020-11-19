@@ -1,0 +1,312 @@
+/*
+font-family: 'Lato', sans-serif;
+*/
+body {
+    margin: 0;
+    padding: 0 15px !important;
+    color: #b2b2b2;
+    min-width: 320px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: none;
+    font: 16px/1.4 'Lato', sans-serif;
+    background: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #2a8689;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+}
+
+* {
+    max-height: 100000px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.dialogue {
+    height: 152px;
+    padding: 10px 30px;
+    border-radius: 2px;
+    background: #fff;
+    position: relative;
+    z-index: 10;
+    box-shadow: 0 0 4px -1px #000;
+    overflow: hidden;
+}
+
+.dialogue.card {
+    height: auto;
+    border: 1px dotted #ccc;
+    border-radius: 4px;
+}
+
+#previewHtml .dialogue * {
+    word-break: break-all;
+}
+
+.dialogue.card.classic .img_holder, .dialogue.card.cross-promotion .img_holder {
+    max-width: 70px;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+    height: auto;
+}
+
+.dialogue .img_holder {
+    margin: 4px 0 0;
+    float: left;
+    width: 120px;
+    /* height: 120px; */
+    background: #e1e1e1;
+    cursor: pointer;
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.dialogue .img_holder img {
+    max-width: 100%;
+    /* height: 100%; */
+}
+
+.dialogue.card .txt {
+    display: inline-block;
+    vertical-align: middle;
+    width: 80%;
+    overflow: hidden;
+    padding: 0 0 0 34px;
+    color: #666;
+    font-weight: 600;
+}
+
+.dialogue h3 {
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 7px;
+    color: #000;
+}
+
+.dialogue p {
+    margin: 0;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.dialogue.card p {
+    margin: 0 0 6px;
+}
+
+.dialogue a {
+    font-weight: 400;
+    font-size: 13px;
+    word-break: break-all;
+}
+
+.compose_layout_holder {
+    max-width: 530px;
+    margin: 0 auto 20px;
+    padding: 14px;
+    border-radius: 5px;
+    background: #e2e2e2;
+    overflow: hidden;
+}
+
+#composeNewsfeed {
+
+    padding: 14px 14px !important;
+}
+
+/*banner styles*/
+.dialogue.card.banner {
+    padding-bottom: 30px;
+}
+
+.dialogue.card.banner .img_holder {
+    width: 100%;
+    float: none;
+    overflow: hidden;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+.dialogue.card.banner .img_holder img {
+    max-width: none;
+    width: 100%;
+}
+
+.dialogue.card.banner .txt {
+    width: 100%;
+    max-width: none;
+    padding-left: 0;
+    text-align: center;
+    overflow: hidden;
+    display: block;
+}
+
+.dialogue.card.banner h3 {
+    background: #ededed;
+    padding: 15px;
+    text-align: center;
+    font: 700 18px/20px Arial, Helvetica, sans-serif;
+    color: #031730;
+    margin: 0 0 15px;
+}
+
+.dialogue.card.banner .txt p {
+    text-align: center;
+}
+
+.dialogue.card.banner p {
+    font-size: 15px;
+    font-weight: 700;
+    color: #666;
+    padding: 5px 50px 20px;
+    text-align: center;
+}
+
+.dialogue.card.banner a {
+    font-weight: 400;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+/*banner styles ends*/
+/*captioned image styles*/
+.dialogue.captioned-image {
+    padding: 10px 30px;
+    position: relative;
+}
+
+.dialogue.captioned-image .img_holder_col {
+    height: 209px;
+}
+
+.dialogue.captioned-image .img_holder_col {
+    width: 48%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.d_table {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.v_middle {
+    width: 100%;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.dialogue.card.captioned-image .img_holder {
+    display: block;
+    margin: 0 auto;
+    max-width: 130px;
+}
+
+.dialogue.card.classic .img_holder, .dialogue.card.cross-promotion .img_holder {
+    max-width: 70px;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.dialogue.captioned-image .txt {
+    max-width: none;
+    padding-left: 20px;
+    width: 48%;
+    height: auto;
+}
+
+.dialogue.captioned-image:after {
+    width: 1px;
+    position: absolute;
+    content: '';
+    top: 10px;
+    bottom: 10px;
+    left: 50%;
+    background: #ccc;
+}
+
+.dialogue.card.captioned-image .img_holder {
+    display: block;
+    margin: 0 auto;
+    max-width: 130px;
+}
+
+/*captioned image styles ends*/
+/*cross promotion styles*/
+.cross-promotion .btn_trigger {
+    float: right;
+    width: 140px;
+    border: 1px solid;
+    border-radius: 4px;
+    text-align: center;
+    padding: 5px 3px;
+}
+
+.dialogue.card.cross-promotion .txt {
+    max-width: 49%;
+}
+
+/*cross promition styles ends*/
+
+@media (max-width: 500px) {
+    .dialogue {
+        padding: 10px 10px;
+    }
+
+    .dialogue.card .txt {
+        width: 68%;
+        padding: 0 0 0 14px;
+    }
+
+    .dialogue.card.captioned-image .txt {
+        width: 100%;
+        display: block;
+        height: auto;
+        padding: 0;
+        text-align: center;
+    }
+
+    .dialogue.card.captioned-image .txt .d_table,
+    .dialogue.card.captioned-image .img_holder_col .d_table {
+        display: block;
+        height: auto;
+    }
+
+    .dialogue.card.captioned-image .txt .v_middle,
+    .dialogue.card.captioned-image .img_holder_col .v_middle {
+        display: block;
+        height: auto;
+    }
+
+    .dialogue.captioned-image:after {
+        display: none;
+    }
+
+    .dialogue.captioned-image .img_holder_col {
+        width: 100%;
+        display: block;
+        margin: 0 0 14px;
+        height: auto;
+    }
+
+    .cross-promotion .btn_trigger {
+        width: 50px;
+    }
+
+    .dialogue.card.cross-promotion .txt {
+        max-width: 44%;
+    }
+
+    .dialogue.card.cross-promotion .txt p {
+        font-size: 12px;
+    }
+}

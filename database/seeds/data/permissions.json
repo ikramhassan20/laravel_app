@@ -1,0 +1,7 @@
+[
+    {"name": "news_feed-listing"},
+    {"name": "news_feed-create"},
+    {"name": "news_feed-edit"},
+    {"name": "news_feed-delete"},
+    {"name": "segment-listing"}
+]

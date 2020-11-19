@@ -1,0 +1,35 @@
+[
+  {
+    "rec_type": "email",
+    "rec_id": "1",
+    "row_id": "1",
+    "actual_url": "http://www.google.com",
+    "created_date": "2018-07-26 15:29:40",
+    "ip_address": "103.217.177.141",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79",
+    "device_type": "ios",
+    "viewed": "1"
+  },
+  {
+    "rec_type": "email",
+    "rec_id": "1",
+    "row_id": "1",
+    "actual_url": "http://www.yahoo.com",
+    "created_date": "2018-07-26 15:29:40",
+    "ip_address": "103.217.177.141",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79",
+    "device_type": "android",
+    "viewed": "1"
+  },
+  {
+    "rec_type": "email",
+    "rec_id": "1",
+    "row_id": "1",
+    "actual_url": "http://www.yahoo.com",
+    "created_date": "2018-07-26 15:29:40",
+    "ip_address": "103.217.177.141",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79",
+    "device_type": "android",
+    "viewed": "1"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "company_key": "ZbfvSyyTYH1slSQrUrXebWtogo5SWtMI9ibjiw65T5m4elPNIM",
+      "name": "Company Bahzooka",
+      "email": "comapny@Bahzooka.com",
+      "password": "$2y$10$wQsub3J9nWhO3GAc8NIDAeigJa5BqBSV48c\/THp6GUv6dNGAq.5e6",
+      "remember_token": null,
+      "last_login": null,
+      "created_by": null,
+      "updated_by": null,
+      "logo": null,
+      "is_active": "1",
+      "timezone": null
+    },
+    {
+      "id": "4",
+      "company_key": "ZbfvSyyTYH1slSQrUrXebWtogo5SWtMI9ibjiw65T5m4elPNIM",
+      "name": "Company cordirection",
+      "email": "company@cordirection.com",
+      "password": "$2y$10$wQsub3J9nWhO3GAc8NIDAeigJa5BqBSV48c\/THp6GUv6dNGAq.5e6",
+      "remember_token": null,
+      "last_login": null,
+      "created_by": null,
+      "updated_by": null,
+      "logo": null,
+      "is_active": "1",
+      "timezone": null
+    }
+  ],
+  "user_roles": [
+    [
+      3,
+      3
+    ],
+    [
+      4,
+      4
+    ]
+  ]
+}
